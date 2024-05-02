@@ -1,0 +1,142 @@
+nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-image: url('../img/large-triangles.svg');
+}
+
+.logointecap {
+    width: 200px;
+    height: 100px;
+}
+
+.navPrincipal{
+    background-color: gray;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white;
+}
+
+.letraNav{
+    color: white;
+
+}
+
+#cabecera {
+    display: block;
+}
+
+.logoface {
+    width: 100px;
+    float: right;
+    margin-right: 5px;
+
+}
+
+.logotwitter {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 5px;
+}
+
+.logoinsta {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 8px;
+
+}
+
+.logoyutu{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 5px;
+}
+
+.logolinkedin {
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+/* CONTENDOR DE LOGO Y FORMULARIO*/
+#contenidosEmpleados {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  /* ID DEL FORMULARIO EMPLEADO REFERENCIAR */
+  #formularioEmpleado {
+    font-size: 18px;
+    width: 450px;
+  }
+
+  .articulo5{
+    width: 425px;
+    text-align: center;
+    height: 480px;
+}
+
+.logointecap2{
+    width: 422px;
+    height: 475px;
+}
+  
+
+/*  TABLA DONDE SE ALMACENA LA INFO*/
+  .contenedor2 {
+    border: 1px solid gray;
+    font-size: 18px;
+    width: 900px;
+    height: 400px;
+    margin: auto;
+  }
+
+h5{
+    text-align: center;
+    color: #bbe1fa;
+}
+
+h2{
+    text-align: center;
+    color: darkblue;
+}
+
+form{
+
+    /* background-image: linear-gradient(to bottom, white 0%, #5BDBE6 100%); */
+    background-color: #3282b8;
+
+    border-radius: 10px 10px 10px 10px;
+
+    border-radius: 15px 15px 15px 15px;
+}
+
+
+.boton1{
+    background-color: #bbe1fa;
+}
+
+
+
+footer{
+    background-color: #122562;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+
+th{
+    background-color: greenyellow;
+}
+
+.boton2{
+    background-color: violet;
+}
+

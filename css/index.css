@@ -1,0 +1,189 @@
+body{
+    background-image: url('../img/large-triangles.svg');
+}
+*{
+    text-decoration: none;
+
+}
+nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white;
+}
+
+.logointecap {
+    width: 200px;
+    height: 100px;
+}
+
+
+
+
+.logoface {
+    width: 100px;
+    margin-right: 5px;
+
+}
+
+.logotwitter {
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+}
+
+.logoinsta {
+    width: 100px;
+    height: 100px;
+    margin-right: 8px;
+
+}
+
+.logoyutu{
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+
+}
+
+.logolinkedin {
+    width: 100px;
+    height: 100px;
+}
+
+/* INICIO ICONOS */
+#art1{
+    text-align: right;
+}
+
+.img1{
+    text-align: left;
+}
+
+.img2{
+    text-align: right;
+    margin-top: -90px;
+    text-decoration: none;
+}
+
+
+hr {
+    background-color: black;
+    height: 5px;
+}
+
+
+
+.navPrincipal{
+    background-color: gray;
+}
+
+.letraNav{
+    color: white;
+
+}
+
+/* CONFIG 1*/
+#seccion3 {
+    display: grid;
+   grid-template-areas: "mision imagen vision";
+
+}
+
+.sectionmision {
+    grid-area: mision;
+    background-color: white;
+    margin: auto;
+    width: 70%;
+    border: 2px solid #000;
+    font-size: 15px;
+}
+
+.efpem {
+    grid-area: imagen;
+}
+
+iframe {
+    height: 250px;
+    
+}
+
+.sectionvision {
+    grid-area: vision;
+    background-color: white;
+    margin: auto;
+    width: 70%;
+    border: 2px solid #000;
+    font-size: 15px;
+
+}
+
+
+/* CONFIG 2 */
+
+#informacionAdicional {
+    display: grid;
+    grid-template-areas: "texto imagen";
+
+
+}
+
+.articulo4{
+    grid-area: texto;
+
+    background-color: white;
+    margin: auto;
+    width: 90%;
+    border: 2px solid #000;
+    font-size: 15px;
+}
+
+.articulo5{
+    width: 250px;
+    border: 0px;
+    border-spacing: 0px;
+    margin: auto;
+}
+
+.logointecap2{
+    width: 95%;
+    height: 250px;
+    margin-bottom: -3px;
+
+}
+
+
+@media screen and (max-width: 1000px) {
+/* SECCION 3*/
+#seccion3 {
+    grid-template-areas: "imagen" "mision" "vision";
+    row-gap: 50px;
+ }
+
+
+ #informacionAdicional {
+    grid-template-areas: "texto" "imagen";
+    row-gap: 50px;
+
+}
+
+
+}
+  
+@media screen and (max-width: 800px) {
+    
+    .img1{
+        text-align: center;
+    }
+
+    .img2{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+  }
+  
+ 

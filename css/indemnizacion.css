@@ -1,0 +1,127 @@
+
+nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+body{
+    background-image: url('../img/large-triangles.svg');
+}
+
+/* CONFIGURACION NAVBAR 
+*/
+.letraNav{
+    color: white;
+
+}
+.navPrincipal{
+    background-color: gray;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white;
+}
+
+
+.logointecap {
+    width: 200px;
+    height: 100px;
+}
+
+
+#cabecera {
+    display: block;
+}
+
+.logoface {
+    width: 100px;
+    float: right;
+    margin-right: 5px;
+
+}
+
+.logotwitter {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 5px;
+}
+
+.logoinsta {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 8px;
+
+}
+
+.logoyutu{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 5px;
+}
+
+.logolinkedin {
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+p{
+    color: black;
+    font-weight: bold;
+}
+
+#formularioIndemnizacion{
+    width: 40%;
+    border-radius: 20px 20px 20px 20px;
+    /* background-color: black; */
+    /* color: white; */
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #74B9DA;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+
+
+
+
+#contenido{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+
+}
+
+.imagenintecap{
+    width: 100%;
+}
+
+.articulo2{
+    width: 300px;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+
+/* footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 60px;
+} */
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: black
+}
+

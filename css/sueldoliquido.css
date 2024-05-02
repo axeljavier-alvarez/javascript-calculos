@@ -1,0 +1,99 @@
+nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-image: url('../img/large-triangles.svg');
+}
+
+.logointecap {
+    width: 200px;
+    height: 100px;
+}
+
+#cabecera {
+    display: block;
+}
+
+.logoface {
+    width: 100px;
+    float: right;
+    margin-right: 5px;
+
+}
+
+.logotwitter {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 5px;
+}
+
+.logoinsta {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 8px;
+
+}
+
+.logoyutu{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 5px;
+
+}
+
+.logolinkedin {
+    width: 100px;
+    height: 100px;
+    float: right;
+
+}
+
+#contenidosEmpleados{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+.navPrincipal{
+    background-color: gray;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white;
+}
+
+.letraNav{
+    color: white;
+
+}
+
+#ingresos{
+    width: 40%;
+    border-radius: 20px 20px 20px 20px;
+    /* background-color: black; */
+    /* color: white; */
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #74B9DA;
+}
+
+#egresos{
+    width: 40%;
+    border-radius: 20px 20px 20px 20px;
+    /* background-color: black; */
+    /* color: white; */
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #74B9DA;
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
