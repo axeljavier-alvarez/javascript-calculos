@@ -9,7 +9,10 @@
 | ------ | ------ |
 | 2023-023346 | Axel Alvarez |
 
-## Descripcion del proyecto
+### Sitio web 
+http://axjavierjavier.000.pe/vistaGrid
+
+### Descripcion del proyecto
 > El proyecto cuenta con 4 páginas: Inicio, empleado, sueldo base e indemnización
 > Las tecnologías utilizadas fueron: HTML, CSS (Boostrap) y JavaScript
 
