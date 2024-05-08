@@ -10,7 +10,7 @@
 | 2023-023346 | Axel Alvarez |
 
 ### Sitio web 
-http://axjavierjavier.000.pe/vistaGrid
+http://axjavierjavier.000.pe/javascriptCalculos/
 
 ### Descripcion del proyecto
 > El proyecto cuenta con 4 páginas: Inicio, empleado, sueldo base e indemnización
